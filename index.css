@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.maplibregl-popup-content {
+  background: transparent !important;
+  box-shadow: none !important;
+}
