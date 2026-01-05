@@ -1,0 +1,64 @@
+{
+  "hash": "299b2b35",
+  "configHash": "a5f45688",
+  "lockfileHash": "0ce61ec5",
+  "browserHash": "3905d8b3",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "a6e70373",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "226527f8",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "703535b8",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "f7836787",
+      "needsInterop": true
+    },
+    "lucide-react": {
+      "src": "../../lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "b6916ab7",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "614d7db7",
+      "needsInterop": true
+    },
+    "react-map-gl/maplibre": {
+      "src": "../../react-map-gl/dist/maplibre.js",
+      "file": "react-map-gl_maplibre.js",
+      "fileHash": "fc2c1a11",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-I3XRBTSS": {
+      "file": "chunk-I3XRBTSS.js"
+    },
+    "chunk-YX2XZWS3": {
+      "file": "chunk-YX2XZWS3.js"
+    },
+    "maplibre-gl-BQLCL7SQ": {
+      "file": "maplibre-gl-BQLCL7SQ.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
+}
