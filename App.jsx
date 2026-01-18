@@ -8,6 +8,7 @@ import { getCardinalDirection } from "./utils/getCardinalDirection";
 
 const API_URL = import.meta.env.VITE_API_URL;
 
+
 export default function App() {
   const mapRef = useRef(null);
   const [segments, setSegments] = useState([]);
