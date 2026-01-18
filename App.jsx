@@ -550,6 +550,7 @@ export default function App() {
                         </div>
                       </div>
                     </div>
+                    
 
                     <div className="flex items-center justify-between p-3 bg-slate-50 rounded-lg">
                       <div className="flex items-center gap-2">
