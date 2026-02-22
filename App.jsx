@@ -6,6 +6,7 @@ import { X } from "lucide-react";
 import { WindDirectionArrow } from "./components/map/WindDirectionArrow";
 import { getCardinalDirection } from "./utils/getCardinalDirection";
 
+
 const API_URL = import.meta.env.VITE_API_URL;
 
 
