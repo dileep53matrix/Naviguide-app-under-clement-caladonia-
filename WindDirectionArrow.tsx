@@ -16,6 +16,7 @@ export const WindDirectionArrow = ({
           transition: "transform 0.3s ease",
         }}
       >
+      
         {/* Cercle de fond */}
         <circle
           cx="16"
