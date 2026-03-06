@@ -1,3 +1,4 @@
+
 export const WindDirectionArrow = ({
   direction,
   size = 32,
